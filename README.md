@@ -7,7 +7,7 @@ Weights:
 positive connection: 
 First degree connection: 1/(the current positive connections) 
 
-Second degree connection: 0.1/(the current negative connections)
+Second degree connection: 0.1/(the current positive connections)
 
 negative connections: 
 first degree: -1 
